@@ -1,10 +1,10 @@
-Example = new Meteor.Collection('example');
+TodoLists = new Meteor.Collection('todo-lists');
 
 /*
 * Allow
 */
 
-Example.allow({
+TodoLists.allow({
   insert: function(){
     // Disallow inserts on the client by default.
     return false;
@@ -23,7 +23,7 @@ Example.allow({
 * Deny
 */
 
-Example.deny({
+TodoLists.deny({
   insert: function(){
     // Deny inserts on the client by default.
     return true;

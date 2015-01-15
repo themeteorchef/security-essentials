@@ -25,9 +25,11 @@ Storing sensitive information like API keys in `settings.json` and how to share 
 #### Additional Security Techniques
 Techniques that can be added in addition to what's outlined above on an as-needed basis:
 
+- [Adding accounts](http://docs.meteor.com/#/full/accounts_api)
 - [Adding schemas to your collections](http://atmospherejs.com/aldeed/collection2)
 - [Using "Hooks" in Iron Router](https://github.com/EventedMind/iron-router/blob/devel/Guide.md#hooks)
 - [Creating server-only methods](https://github.com/themeteorchef/server-auth-token)
+- [Add client-side validation to forms](http://github.com/themeteorchef/jquery-validation)
 
 ## What's in here?
 This repository includes example implementations of each of the concepts above. Each example is fairly generic, so make sure to research how the techniques we'll discuss will play into your application before you go into production.
@@ -47,3 +49,4 @@ If you're interested in learning more about security and how to implement it in 
 - [Josh Owens: Meteor Security 101](http://joshowens.me/meteor-security-101/)
 - [Emily Stark: Security Resources](http://security-resources.meteor.com/)
 - [The Meteor Chef: Base](http://github.com/themeteorchef/base)
+- [The Meteor Chef: Roll Your Own Authentication](themeteorchef.com/recipes/roll-your-own-authentication)
