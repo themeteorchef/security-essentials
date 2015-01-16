@@ -49,4 +49,4 @@ If you're interested in learning more about security and how to implement it in 
 - [Josh Owens: Meteor Security 101](http://joshowens.me/meteor-security-101/)
 - [Emily Stark: Security Resources](http://security-resources.meteor.com/)
 - [The Meteor Chef: Base](http://github.com/themeteorchef/base)
-- [The Meteor Chef: Roll Your Own Authentication](themeteorchef.com/recipes/roll-your-own-authentication)
+- [The Meteor Chef: Roll Your Own Authentication](http://themeteorchef.com/recipes/roll-your-own-authentication)
