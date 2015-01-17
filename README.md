@@ -50,3 +50,4 @@ If you're interested in learning more about security and how to implement it in 
 - [Emily Stark: Security Resources](http://security-resources.meteor.com/)
 - [The Meteor Chef: Base](http://github.com/themeteorchef/base)
 - [The Meteor Chef: Roll Your Own Authentication](http://themeteorchef.com/recipes/roll-your-own-authentication)
+- [Package: ongoworks:security](https://github.com/ongoworks/meteor-security/) (h/t [@benstr](https://github.com/themeteorchef/security-essentials/issues/1) for suggestion)
